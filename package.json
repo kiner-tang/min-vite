@@ -1,0 +1,20 @@
+{
+  "name": "vite-min",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/compiler-dom": "^3.1.2",
+    "@vue/compiler-sfc": "^3.1.2"
+  },
+  "dependencies": {
+    "koa": "^2.13.1",
+    "vue": "^3.1.2"
+  }
+}
